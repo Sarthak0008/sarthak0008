@@ -17,6 +17,10 @@
 
 - 📫 How to reach me **sarthaksingh.16094@gmail.com**
 
+- 💻 My biggest motivation is that I can write some code that would automate an organization's service or help them in solving a problem.
+
+- ♟ I like playing Chess and cricket.
+
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UDRdqOJxPKCJdb0LcOavTF61wnuDbRrF/view?usp=sharing)
 ## About Me
 
