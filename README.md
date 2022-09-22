@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sarthaksingh.16094@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UDRdqOJxPKCJdb0LcOavTF61wnuDbRrF/view?usp=sharing](https://drive.google.com/file/d/1UDRdqOJxPKCJdb0LcOavTF61wnuDbRrF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UDRdqOJxPKCJdb0LcOavTF61wnuDbRrF/view?usp=sharing)
 ## About Me
 
 <!-- <img align='right' src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="260" height='230'> -->
