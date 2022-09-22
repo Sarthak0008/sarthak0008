@@ -9,13 +9,15 @@
             src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Java-Backend+developer." /></a>
 </p>
 
-- 🌱 I’m currently learning **in Masai School**
+- 🌱 I’m currently learning **  full-Stack Java Developer course from Masai School.**
 
 - 👨‍💻 All of my projects are available at [https://sarthak0008.github.io](https://sarthak0008.github.io)
 
 - 💬 Ask me about **Java, MySQL ,Maven, Spring Boot, AWS,JavaScript**
 
 - 📫 How to reach me **sarthaksingh.16094@gmail.com**
+
+- ✔ Have a look at my [Portfolio](https://sarthak0008.github.io/) .
 
 - 💻 My biggest motivation is that I can write some code that would automate an organization's service or help them in solving a problem.
 
