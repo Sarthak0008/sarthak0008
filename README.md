@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sarthak0008.github.io)
 
-- 💬 Ask me about **Java, MySQL ,Maven, Spring Boot, AWS,JavaScript**
+- 💬 Ask me about **Java, MySQL ,Maven, Spring Boot, Hibernate,JavaScript**
 
 - 📫 How to reach me **sarthaksingh.16094@gmail.com**
 
